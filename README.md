@@ -23,6 +23,9 @@ Font Awesome (optional, for icons)
 index.html — main iPhone layout
 Bootstrap classes for layout, buttons, cards, navbar, grit, flex etc.
 
+
+<img width="2880" height="7924" alt="Image" src="https://github.com/user-attachments/assets/5b74687b-223d-41c1-adfb-bdc1498a2e42" />
+
 🚀 Perfect For
 
 Frontend beginners learning Bootstrap
